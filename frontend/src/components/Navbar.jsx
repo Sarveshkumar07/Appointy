@@ -51,7 +51,7 @@ const Navbar = () => {
   rel="noopener noreferrer"
   className='bg-primary text-white text-xs px-4 py-2 rounded-full hover:bg-gray-700 hidden md:block'
 >
-  Admin Panel
+  Admin Panel TEST 123
 </a>
         )}
 
